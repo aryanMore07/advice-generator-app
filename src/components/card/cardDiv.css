@@ -1,0 +1,28 @@
+.card-div {
+    max-width:480px;
+    height: 294px;
+    position: absolute;
+    top: 30vh;
+    left: 35%;
+}
+
+hr {
+    width: 29vh;
+}
+
+.title-div {
+    width:480px;
+    height: 294px;
+
+}
+
+.line-div {
+    display: flex;
+    flex-direction: row;
+}
+
+.click-btn {
+    border-radius: 50%;
+    padding: 4px 10px 10px 10px;
+    background-color: #55FCAA;
+}
